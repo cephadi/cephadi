@@ -18,6 +18,7 @@
 <a href="https://linkedin.com/in/hadi-purnomo-729142139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadi-purnomo-729142139" height="30" width="40" /></a>
 <a href="https://instagram.com/cenghadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cenghadi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCXVtKLT_tbjJzcWVoybzKQw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxvtklt_tbjjzcwvoybzkqw" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9002661/hadi-purnomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Hadi Purnomo - Stackoverflow" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
