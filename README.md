@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cephadi" alt="cephadi" /></a> </p>
 
-- 🔭 I’m currently working on [Detikcom](https://www.detik.com/)
+- 🔭 I’m currently working on [Admedika](https://www.admedika.co.id/)
 
 - 💬 Ask me about **reactjs, react native, nextjs, php, javascript, java (spring boot), laravel, yii2, codeigniter, phalcon framework, nodejs, adonisjs, python, flask framework**
 
