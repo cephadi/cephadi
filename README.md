@@ -1,11 +1,11 @@
-<h1 align="center">Hello World! 👋, I'm Hadi Purnomo</h1>
+<img width="271" height="60" alt="image" src="https://github.com/user-attachments/assets/862a5345-d4a4-40e9-878e-76b4a2fab40d" /><h1 align="center">Hello World! 👋, I'm Hadi Purnomo</h1>
 <h3 align="center">A passionate frontend developer, backend developer or full stack developer from Indonesia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cephadi&label=Profile%20views&color=0e75b6&style=flat" alt="cephadi" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cephadi" alt="cephadi" /></a> </p>
 
-- 🔭 I’m currently working on [Admedika](https://www.admedika.co.id/)
+- 🔭 I’m currently working on [Indonesia Eximbank](https://www.indonesiaeximbank.go.id/)
 
 - 💬 Ask me about **reactjs, react native, nextjs, php, javascript, java (spring boot), laravel, yii2, codeigniter, phalcon framework, nodejs, adonisjs, python, flask framework**
 
